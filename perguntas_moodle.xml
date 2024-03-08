@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="multichoice">
+    <name>
+        <text>Fácil</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+        <text><![CDATA[<p>Qual é a capital de Portugal?</p>]]></text>
+    </questiontext>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="100">
+        <text>Lisboa</text>
+        <feedback><text> Correto!</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Porto</text>
+        <feedback><text> Incorreto.</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Coimbra</text>
+        <feedback><text> Incorreto.</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Faro</text>
+        <feedback><text> Incorreto.</text></feedback>
+    </answer>
+</question>
+<question type="multichoice">
+    <name>
+        <text>Médio</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+        <text><![CDATA[<p>Quem escreveu Os Lusíadas?</p>]]></text>
+    </questiontext>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="100">
+        <text>Luís de Camões</text>
+        <feedback><text> Correto!</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Fernando Pessoa</text>
+        <feedback><text> Incorreto.</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Eça de Queirós</text>
+        <feedback><text> Incorreto.</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Miguel de Cervantes</text>
+        <feedback><text> Incorreto.</text></feedback>
+    </answer>
+</question>
+<question type="multichoice">
+    <name>
+        <text>Difícil</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+        <text><![CDATA[<p>Qual é o maior planeta do sistema solar?</p>]]></text>
+    </questiontext>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <answer fraction="100">
+        <text>Júpiter</text>
+        <feedback><text> Correto!</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Saturno</text>
+        <feedback><text> Incorreto.</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Marte</text>
+        <feedback><text> Incorreto.</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Vénus</text>
+        <feedback><text> Incorreto.</text></feedback>
+    </answer>
+</question>
+</quiz>
